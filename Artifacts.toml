@@ -1,0 +1,89 @@
+[[Xorg_xf86vidmodeproto]]
+arch = "armv7l"
+git-tree-sha1 = "4582e4734567e5a066d4b69e142d8a38aafd4aad"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xf86vidmodeproto.download]]
+    sha256 = "2e83a1eacf6fdac210cad57ee0cf7b626e7cf82aea341c759482e3729968b6a1"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xf86vidmodeproto_jll.jl/releases/download/Xorg_xf86vidmodeproto-v2.3.1+0/Xorg_xf86vidmodeproto.v2.3.1.arm-linux-gnueabihf.tar.gz"
+[[Xorg_xf86vidmodeproto]]
+arch = "aarch64"
+git-tree-sha1 = "1f08c5d7aaa2c875070c6cfc89eae764e316122f"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xf86vidmodeproto.download]]
+    sha256 = "7229749bf3b59d20caedc366ce3833b3d6a6364cbb4731a9ef0a4bfa99e9edbc"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xf86vidmodeproto_jll.jl/releases/download/Xorg_xf86vidmodeproto-v2.3.1+0/Xorg_xf86vidmodeproto.v2.3.1.aarch64-linux-musl.tar.gz"
+[[Xorg_xf86vidmodeproto]]
+arch = "i686"
+git-tree-sha1 = "855b1187b958a92adc44a327ecc9c2c838b9cba7"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xf86vidmodeproto.download]]
+    sha256 = "21cd105b382cf6c0b3b3b29bd44bbb5d9013b9e0b4f46538c1890a4182d7ebc0"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xf86vidmodeproto_jll.jl/releases/download/Xorg_xf86vidmodeproto-v2.3.1+0/Xorg_xf86vidmodeproto.v2.3.1.i686-linux-musl.tar.gz"
+[[Xorg_xf86vidmodeproto]]
+arch = "i686"
+git-tree-sha1 = "e7b4fb0c7c66407387bd0bc3628544393bccbba0"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xf86vidmodeproto.download]]
+    sha256 = "efff999705b4fa9e9a33b14603590dc316429b61625c07d5f3c2042314709dec"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xf86vidmodeproto_jll.jl/releases/download/Xorg_xf86vidmodeproto-v2.3.1+0/Xorg_xf86vidmodeproto.v2.3.1.i686-linux-gnu.tar.gz"
+[[Xorg_xf86vidmodeproto]]
+arch = "x86_64"
+git-tree-sha1 = "071b64abef84df422744d56f3eee469b81d40f4f"
+os = "freebsd"
+
+    [[Xorg_xf86vidmodeproto.download]]
+    sha256 = "b1509bb03b15ba396e83ac4fc7488c61d5efc29a4f85f2a10910abaa66e015fb"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xf86vidmodeproto_jll.jl/releases/download/Xorg_xf86vidmodeproto-v2.3.1+0/Xorg_xf86vidmodeproto.v2.3.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_xf86vidmodeproto]]
+arch = "powerpc64le"
+git-tree-sha1 = "dcfceca28eaabba6f221fbcb12657bea4fb04c00"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xf86vidmodeproto.download]]
+    sha256 = "98acd4462ba33780e98a05b774d9fa8f8cb046a506b382d358b64a647fc7f53c"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xf86vidmodeproto_jll.jl/releases/download/Xorg_xf86vidmodeproto-v2.3.1+0/Xorg_xf86vidmodeproto.v2.3.1.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_xf86vidmodeproto]]
+arch = "armv7l"
+git-tree-sha1 = "c5a857bb0ae2abb5f4af9a3cc7beb6d435248d86"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xf86vidmodeproto.download]]
+    sha256 = "a1a56cf723b6e8538b4c2773ae3abcdbb2d0f7ec22c8ebc1fcabc75fb29bfe55"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xf86vidmodeproto_jll.jl/releases/download/Xorg_xf86vidmodeproto-v2.3.1+0/Xorg_xf86vidmodeproto.v2.3.1.arm-linux-musleabihf.tar.gz"
+[[Xorg_xf86vidmodeproto]]
+arch = "aarch64"
+git-tree-sha1 = "43e55d7e4a5a394d3236cb6101d74ac88fea2aaf"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xf86vidmodeproto.download]]
+    sha256 = "bc2609c4bca9f836df1a25a21fb376c692baf209fd396da58c774ea18e1be567"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xf86vidmodeproto_jll.jl/releases/download/Xorg_xf86vidmodeproto-v2.3.1+0/Xorg_xf86vidmodeproto.v2.3.1.aarch64-linux-gnu.tar.gz"
+[[Xorg_xf86vidmodeproto]]
+arch = "x86_64"
+git-tree-sha1 = "491d41e44fd764fb30a30f9038bddb40cb395dd1"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xf86vidmodeproto.download]]
+    sha256 = "cefb5f25e4d60f77298ee40e44372dd4cca08e5577fd3b506498164a0ffd926d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xf86vidmodeproto_jll.jl/releases/download/Xorg_xf86vidmodeproto-v2.3.1+0/Xorg_xf86vidmodeproto.v2.3.1.x86_64-linux-gnu.tar.gz"
+[[Xorg_xf86vidmodeproto]]
+arch = "x86_64"
+git-tree-sha1 = "0261fddaa7b56ccf87e27746685572500fb7da2e"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xf86vidmodeproto.download]]
+    sha256 = "dc916e7d5f507a8c5c9c0b81c7a268556f0893f9b30d87b613d5a62b6193d0b7"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xf86vidmodeproto_jll.jl/releases/download/Xorg_xf86vidmodeproto-v2.3.1+0/Xorg_xf86vidmodeproto.v2.3.1.x86_64-linux-musl.tar.gz"
